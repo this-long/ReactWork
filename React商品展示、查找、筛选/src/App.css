@@ -1,0 +1,10 @@
+.filter_product {
+  padding: 50px;
+}
+span {
+  display: inline-block;
+  width: 100px;
+}
+span.active {
+  color: red;
+}
